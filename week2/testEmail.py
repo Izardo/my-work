@@ -1,5 +1,5 @@
-# send an email via gmail
-# author Isabella Doyle
+# Sends an email via gmail
+# Author Isabella Doyle
 
 username = "isabelladoylegti@gmail.com"
 password = "Galway-2507"

@@ -1,5 +1,5 @@
-# this program calculates BMI
-# author: Isabella Doyle
+# This program calculates BMI
+# Author: Isabella Doyle
 
 weight = int(input("Enter weight(Kg):"))    # asks user to input their weight
 height = int(input("Enter height(cm):"))    # asks user to input their height

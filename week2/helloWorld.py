@@ -1,6 +1,6 @@
 # helloWorld.py
-# this program greets the user
-# author: Isabella Doyle
+# This program greets the user
+# Author: Isabella Doyle
 
 name = input("Please enter your name:")
 

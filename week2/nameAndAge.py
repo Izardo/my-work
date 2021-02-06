@@ -1,5 +1,5 @@
-# this program prints a greeting and the users' age
-# author: Isabella Doyle
+# This program prints a greeting and the users' age
+# Author: Isabella Doyle
 
 name = input("What is your name?")
 age = input("What is your age?")

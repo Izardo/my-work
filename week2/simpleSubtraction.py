@@ -1,7 +1,8 @@
-# this program subtracts one number from another
-# author: Isabella Doyle
+# This program subtracts one number from another
+# Author: Isabella Doyle
 
-first = int(input("Enter the first number:"))
-second = int(input("Enter the second number:"))
+first = int(input("Enter the first number:"))   # requests input of integer from user
+second = int(input("Enter the second number:")) # requests input of integer from user
 
+# prints sum below
 print(first - second)
