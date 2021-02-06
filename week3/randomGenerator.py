@@ -1,5 +1,5 @@
-# this program prints out a random number betwen 1 and 10
-# author Isabella Doyle
+# This program prints out a random number betwen 1 and 10
+# Author Isabella Doyle
 
 import random                                       # imports "random" module
 

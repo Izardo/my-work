@@ -1,5 +1,5 @@
-# this program prints out a random pet 
-# author: Isabella
+# This program prints out a random pet 
+# Author: Isabella
 
 # imports the random function
 import random

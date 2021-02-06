@@ -3,6 +3,7 @@
 # It also converts the string to lower case characters.
 # Finally, it outputs the length of both the original 
 # string and the normalised string.
+# Author: Isabella Doyles
 
 rawStr = input("Enter a string:")    # requests user for string input
 normStr = rawStr.strip().lower()     # normalises inputed string
