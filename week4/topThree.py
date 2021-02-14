@@ -16,3 +16,4 @@ amount = 3                                  # amount of objects I will select fr
 
 print ("The top {} are \t\t {}".format(amount,topList[0:amount])) # prints the list of random numbers
                                                                   # followed by the top three numbers
+                                                                  

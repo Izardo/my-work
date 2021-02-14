@@ -20,3 +20,4 @@ elif finalGrade >= 40:
     print("Your grade is a Pass.")
 else:
     print("Your grade is a Fail.")
+    

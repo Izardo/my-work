@@ -7,3 +7,4 @@ if num % 2 == 0:                                        # Simple sum to determin
     print("The number {} is even." .format(num))        # This is printed if the statement is True
 else:
     print("The number {} is not even." .format(num))    # This is printed if the statement is False
+    
